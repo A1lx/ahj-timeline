@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/loggmkqmku332d57?svg=true)](https://ci.appveyor.com/project/A1lx/ahj-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/tgurt2p7fu9ogeaa?svg=true)](https://ci.appveyor.com/project/A1lx/ahj-timeline)
 
-Ссылка на игру: https://a1lx.github.io/ahj-dom/
+Ссылка: 
